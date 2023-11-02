@@ -34,13 +34,17 @@ Analysis of Algorithm -
 What is the running time analysis?
 
 it is the process of determining how processing time increases as the size of the problem (input size) increases. 
-Input size is the number of elemenst in the input. Some types of input are -
+Input size is the number of elements in the input. Some types of input are -
 ~Size of an Array 
 ~Polynomial Degree 
 ~Number of elements in a matrix
 ~Number of bits in Binary Representation of the input 
 ~Vertices and Edges in a graph
 (((<--DOUBT IN WHOLE running TIME analysis}
+
+Doubt Clearing -
+Input example 
+For example, if you have a list of numbers and you want to find the largest number in that list, the list of numbers is the input. The running time of the program (how long it takes) can depend on how many numbers are in the list (the size of the input).
 
 
 How to cmpare Algorithms ?
@@ -54,4 +58,7 @@ Ideal Solution - expressing the running time of algorithm as a function of the i
 
 What is Rate of Growth ?
 The rate at which running time increases as a function of input is called rate of growth. 
+
+commonly used rates of growth -
+
 
