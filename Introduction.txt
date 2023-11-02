@@ -1,0 +1,57 @@
+Two of types of datat types- 
+System Defined Data Types (int floa boolean etc) and User Defined Data Types (for eg: classes in Java)
+
+user defined data types are defined along with thier operations while primite data types already have operations such as addition substraction
+
+Data Structure - is a particlar way of storing and organizing data so that it can be used effeciently.
+Two types of Data Structures -
+
+ 1)Linear Data Structure - elements are accessed in a sequential order but it is not compulsary to store all elements sequentially. Example - Linked Lists , Stacks, Queues
+
+ 2) Non Linear Data Structure - Elements are stored and accesed in a non linear order. Example Trees amd Graphs 
+
+Abstract Data Types (Abstract Data Types)- combining the data srtucture with their operations 
+It consists of two parts - 
+ 1. Declaration of Data
+ 2. Declaraton of Operations
+Examples of ADT are - Linked lists, Stacks, Queues, Priority Queues, Binary Trees, Dictionaries .etc. 
+
+ALGORITHMS -
+
+ The step by step procedure for solving a problem 
+
+ Formal Definition of ALGORITHMS - 
+ The step by step unambigous instructions to solve a given problem
+ 2 main criterias for judging the merit of an Algorithm -
+  1.correcteness (does the algorithm gives solutio to the problem in finite number of steps)
+  2.effeciency (resources in terms of mmeory and time used)
+
+Analysis of Algorithm - 
+ Algorithm analysis is an imporant part of computational complexity theory (<--doubt??} 
+
+ usually the effeciency or running time of an algorithm is stated as a function relating the input lenght to the number of steps, known as time complexity, or volume of memory known as space complexity (Some authors refer to input length to the size of characters that are required to represent the input, so "abcde" if use as input set in an algorithm will have an "input length" of 6 characters)
+
+What is the running time analysis?
+
+it is the process of determining how processing time increases as the size of the problem (input size) increases. 
+Input size is the number of elemenst in the input. Some types of input are -
+~Size of an Array 
+~Polynomial Degree 
+~Number of elements in a matrix
+~Number of bits in Binary Representation of the input 
+~Vertices and Edges in a graph
+(((<--DOUBT IN WHOLE running TIME analysis}
+
+
+How to cmpare Algorithms ?
+Objective Measures - 
+Execution Time ? Not a good measure (can differentiate according to different computer speeds) 
+
+Number of statements executed ? not a good measure (different programming languages have different writting styles)
+
+Ideal Solution - expressing the running time of algorithm as a function of the input size (n) i.e.  f(n) and compare these funtions corresponding to different running times. 
+(indepndent of style, processors speed etc.)
+
+What is Rate of Growth ?
+The rate at which running time increases as a function of input is called rate of growth. 
+
