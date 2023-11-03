@@ -61,4 +61,14 @@ The rate at which running time increases as a function of input is called rate o
 
 commonly used rates of growth -
 
+   1      constant      whatever the input size (n), the function takes the same time (slowest of all of them )
+   logn   Logarithmic   slower growing than linear function
+   n      Linear        these functions grow lineary with input size n
+   nlogn  Linear Log    faster than linear but slower than quaratic
+   n^2    Quadratic     faster grow than linear log functions
+   n^3    Cubic         faster growing than Quadratic 
+   2^n    Exponential   faster than all except factorial 
+   n!     Factorial     faster than all above  (fastest than all)
+
+
 

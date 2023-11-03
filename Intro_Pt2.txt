@@ -1,0 +1,9 @@
+Asymptoic Notation
+Asymptotic Notation is used to describe the running time of an algorithm - how much time an algorithm takes with a given input, n.
+
+Big- O Notation  
+gives tight upper bound of the given function 
+f(n) = O(g(n))
+
+
+//read from khan academy now 
